@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\POO\\POO.csproj": {}
+    "C:\\C#\\POO_em_C-Sharp\\POO - IMC\\POO.csproj": {}
   },
   "projects": {
-    "C:\\C#\\POO\\POO.csproj": {
+    "C:\\C#\\POO_em_C-Sharp\\POO - IMC\\POO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\POO\\POO.csproj",
+        "projectUniqueName": "C:\\C#\\POO_em_C-Sharp\\POO - IMC\\POO.csproj",
         "projectName": "POO",
-        "projectPath": "C:\\C#\\POO\\POO.csproj",
+        "projectPath": "C:\\C#\\POO_em_C-Sharp\\POO - IMC\\POO.csproj",
         "packagesPath": "C:\\Users\\RobertaMedeirosStump\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\POO\\obj\\",
+        "outputPath": "C:\\C#\\POO_em_C-Sharp\\POO - IMC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RobertaMedeirosStump\\AppData\\Roaming\\NuGet\\NuGet.Config"

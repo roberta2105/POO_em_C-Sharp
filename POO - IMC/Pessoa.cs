@@ -1,49 +1,65 @@
-using System;
-using System.Xml.Serialization;
 
-class Pessoa
-    {
-        public double peso;
-        public double altura;
+public class Pessoa
+{
+    
+    private double peso;
+    private double altura;
 
-        public double Calculo()
-        {
-            return peso / (altura * altura);
-        }
-
-        public string Resultado(double imc)
-        {
-            string retorno;
-
-            if(imc < 18.5){
-                retorno = "Abaixo do peso";
-            }
-            else if(imc < 25){
-                retorno = "Peso normal";
-            }
-            else if(imc < 30){
-                retorno = "Acima do peso";
-            }
-            else if(imc < 35){
-                retorno = "Obesidade I";
-            }
-            else if(imc < 40){
-                retorno = "Obesidade II";
-            }
-            else{
-                retorno = "Obesidade III";
-            }
-            return retorno;
-        }
-        public void Mensagem()
-        {
-
-             double obterCalculo = Calculo();
-             string obterResultado = Resultado(obterCalculo);
-
-             Console.WriteLine($"O seu IMC é: {obterCalculo}");
-             Console.WriteLine($"A sua situação é: {obterResultado}");
-        }
-
-       
+    public double Peso{
+        get{return peso;}
+        set{peso=value;}
     }
+        public double Altura{
+        get{return altura;}
+        set{altura=value;}
+    }
+
+    public Pessoa(string nome)
+    {
+        Console.WriteLine($"Olá {nome} vamos calcular o seu IMC!");
+    }
+
+    public double Calculo()
+    {
+        return peso / (altura * altura);
+    }
+
+    public string Situacao(double imc)
+    {
+        string retorno;
+
+        if (imc < 18)
+        {
+            retorno = "abaixo do peso";
+        }
+        else if (imc < 25)
+        {
+            retorno = "peso ideal";
+        }
+        else if (imc < 30)
+        {
+            retorno = "acima do peso";
+        }
+        else if (imc < 35)
+        {
+            retorno = "obesidade I";
+        }
+        else if (imc < 40)
+        {
+            retorno = "obesidade II";
+        }
+        else
+        {
+            retorno = "obesidade III";
+        }
+        return retorno;
+
+    }
+    public void Mensagem()
+    {
+        double obterCalculo = Calculo();
+        string obterSituacao = Situacao(obterCalculo);
+
+        Console.WriteLine($"A situação é: {obterSituacao} com {obterCalculo}");
+    }
+}
