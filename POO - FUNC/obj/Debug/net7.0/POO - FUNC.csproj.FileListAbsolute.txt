@@ -1,0 +1,14 @@
+C:\C#\POO_em_C-Sharp\POO - FUNC\bin\Debug\net7.0\POO - FUNC.exe
+C:\C#\POO_em_C-Sharp\POO - FUNC\bin\Debug\net7.0\POO - FUNC.deps.json
+C:\C#\POO_em_C-Sharp\POO - FUNC\bin\Debug\net7.0\POO - FUNC.runtimeconfig.json
+C:\C#\POO_em_C-Sharp\POO - FUNC\bin\Debug\net7.0\POO - FUNC.dll
+C:\C#\POO_em_C-Sharp\POO - FUNC\bin\Debug\net7.0\POO - FUNC.pdb
+C:\C#\POO_em_C-Sharp\POO - FUNC\obj\Debug\net7.0\POO - FUNC.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\POO_em_C-Sharp\POO - FUNC\obj\Debug\net7.0\POO - FUNC.AssemblyInfoInputs.cache
+C:\C#\POO_em_C-Sharp\POO - FUNC\obj\Debug\net7.0\POO - FUNC.AssemblyInfo.cs
+C:\C#\POO_em_C-Sharp\POO - FUNC\obj\Debug\net7.0\POO - FUNC.csproj.CoreCompileInputs.cache
+C:\C#\POO_em_C-Sharp\POO - FUNC\obj\Debug\net7.0\POO - FUNC.dll
+C:\C#\POO_em_C-Sharp\POO - FUNC\obj\Debug\net7.0\refint\POO - FUNC.dll
+C:\C#\POO_em_C-Sharp\POO - FUNC\obj\Debug\net7.0\POO - FUNC.pdb
+C:\C#\POO_em_C-Sharp\POO - FUNC\obj\Debug\net7.0\POO - FUNC.genruntimeconfig.cache
+C:\C#\POO_em_C-Sharp\POO - FUNC\obj\Debug\net7.0\ref\POO - FUNC.dll
