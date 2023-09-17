@@ -10,6 +10,7 @@ class Assistente : Funcionario
             matricula = Matricula;
         }
 
+        //Usa-se o "override" para subscrever um método "virtual"
         public override void ExibeDados()
         {
             base.ExibeDados();

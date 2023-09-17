@@ -14,12 +14,14 @@ class Funcionario
     public string nome { get; set; }
     public double salario { get; set; }
     
+    //Construtor para inicializar os atributos nome e salario.
     public Funcionario(string Nome, double Salario)
     {
         nome = Nome;
         salario = Salario;
     }
 
+    //Usa-se a palavra-chave "virtual" para indicar que um método pode ser subscrito em classes derivadas.
     public virtual double GanhoAnual()
     {
         return salario * 12;
@@ -33,8 +35,6 @@ class Funcionario
     {
         Console.WriteLine($"Funcionário: {nome}");
         Console.WriteLine($"Salário de : {salario}");
-
-
     }
 
 }

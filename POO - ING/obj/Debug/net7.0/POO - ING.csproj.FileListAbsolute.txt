@@ -1,0 +1,14 @@
+C:\C#\POO_em_C-Sharp\POO - ING\bin\Debug\net7.0\POO - ING.exe
+C:\C#\POO_em_C-Sharp\POO - ING\bin\Debug\net7.0\POO - ING.deps.json
+C:\C#\POO_em_C-Sharp\POO - ING\bin\Debug\net7.0\POO - ING.runtimeconfig.json
+C:\C#\POO_em_C-Sharp\POO - ING\bin\Debug\net7.0\POO - ING.dll
+C:\C#\POO_em_C-Sharp\POO - ING\bin\Debug\net7.0\POO - ING.pdb
+C:\C#\POO_em_C-Sharp\POO - ING\obj\Debug\net7.0\POO - ING.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\POO_em_C-Sharp\POO - ING\obj\Debug\net7.0\POO - ING.AssemblyInfoInputs.cache
+C:\C#\POO_em_C-Sharp\POO - ING\obj\Debug\net7.0\POO - ING.AssemblyInfo.cs
+C:\C#\POO_em_C-Sharp\POO - ING\obj\Debug\net7.0\POO - ING.csproj.CoreCompileInputs.cache
+C:\C#\POO_em_C-Sharp\POO - ING\obj\Debug\net7.0\POO - ING.dll
+C:\C#\POO_em_C-Sharp\POO - ING\obj\Debug\net7.0\refint\POO - ING.dll
+C:\C#\POO_em_C-Sharp\POO - ING\obj\Debug\net7.0\POO - ING.pdb
+C:\C#\POO_em_C-Sharp\POO - ING\obj\Debug\net7.0\POO - ING.genruntimeconfig.cache
+C:\C#\POO_em_C-Sharp\POO - ING\obj\Debug\net7.0\ref\POO - ING.dll
