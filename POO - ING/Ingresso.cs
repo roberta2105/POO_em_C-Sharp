@@ -1,6 +1,6 @@
 
 
-class Ingresso
+abstract class Ingresso
 {
     protected double valorReais {get; set;}
 

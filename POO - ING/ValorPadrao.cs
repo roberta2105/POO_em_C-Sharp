@@ -1,7 +1,7 @@
 
-    class valorPadrao : Ingresso
+    class ValorPadrao : Ingresso
     {
-        public valorPadrao(double valorReais): base (valorReais){}
+        public ValorPadrao(double valorReais): base (valorReais){}
 
         public void imprimePadrao()
         {

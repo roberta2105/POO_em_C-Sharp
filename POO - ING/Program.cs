@@ -14,8 +14,8 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Ingresso ingressoNormal = new Ingresso(20);
-        ingressoNormal.imprimeValor();
+        ValorPadrao ingressoNormal = new ValorPadrao(20);
+        ingressoNormal.imprimePadrao();
         Console.WriteLine("");
 
         ClasseVIP ingressoVIP = new ClasseVIP(20, 15);
