@@ -1,0 +1,14 @@
+C:\C#\POO_em_C-Sharp\POO - Imóvel\bin\Debug\net7.0\POO - Imóvel.exe
+C:\C#\POO_em_C-Sharp\POO - Imóvel\bin\Debug\net7.0\POO - Imóvel.deps.json
+C:\C#\POO_em_C-Sharp\POO - Imóvel\bin\Debug\net7.0\POO - Imóvel.runtimeconfig.json
+C:\C#\POO_em_C-Sharp\POO - Imóvel\bin\Debug\net7.0\POO - Imóvel.dll
+C:\C#\POO_em_C-Sharp\POO - Imóvel\bin\Debug\net7.0\POO - Imóvel.pdb
+C:\C#\POO_em_C-Sharp\POO - Imóvel\obj\Debug\net7.0\POO - Imóvel.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\POO_em_C-Sharp\POO - Imóvel\obj\Debug\net7.0\POO - Imóvel.AssemblyInfoInputs.cache
+C:\C#\POO_em_C-Sharp\POO - Imóvel\obj\Debug\net7.0\POO - Imóvel.AssemblyInfo.cs
+C:\C#\POO_em_C-Sharp\POO - Imóvel\obj\Debug\net7.0\POO - Imóvel.csproj.CoreCompileInputs.cache
+C:\C#\POO_em_C-Sharp\POO - Imóvel\obj\Debug\net7.0\POO - Imóvel.dll
+C:\C#\POO_em_C-Sharp\POO - Imóvel\obj\Debug\net7.0\refint\POO - Imóvel.dll
+C:\C#\POO_em_C-Sharp\POO - Imóvel\obj\Debug\net7.0\POO - Imóvel.pdb
+C:\C#\POO_em_C-Sharp\POO - Imóvel\obj\Debug\net7.0\POO - Imóvel.genruntimeconfig.cache
+C:\C#\POO_em_C-Sharp\POO - Imóvel\obj\Debug\net7.0\ref\POO - Imóvel.dll
